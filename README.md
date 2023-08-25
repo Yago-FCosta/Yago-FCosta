@@ -1,15 +1,12 @@
 ### Olá! 👋 Me chamo Yago!
 
 
-<p> Trabalho principalmente com Pyhton para desenvolver análises exploratórias, analises estatísticas, visualizações, ETL e automatização de processos e tarefas  . </p>
+<p> Trabalho principalmente com Pyhton para desenvolver análises exploratórias, analises estatísticas, storytelling, visualizações, ETL e automatização de processos e tarefas  . </p>
 
 <p> Faço uso do Looker Studio e me viro bem com Power BI para criar dashboards para acompanhamento de KPI's e insights.
 Também tenho conhecimento em Excel/Google Sheets, embora eu esteja na missão de acabar com as planilhas. </p>
 
 <p> Finalizei o Bootcamp de Cientista de Dados pela TripleTen. No curso aprendi a realizar consultas em SQL e a trabalhar com as principais bibliotecas do Pyhton utilizadas para análise de dados e ciência de dados (pandas, numpy, matplotlib, plotly, scipy, scikit learn, keras, entre outras), e suas aplicações para manipulação, análises, testes estatísticos, séries temporais, machine learning e resolução de problemas de negócios. Aprendi a construir modelos de machine learning supervisionados e não supervisionados, além de redes totalmente conectadas e redes neurais convolucionais. </p>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
