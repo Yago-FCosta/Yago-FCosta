@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! 👋 Me chamo Yago!
+Cientista de dados com skills como Python, SQL, Power BI, DataStudio, lógica de programação, machine learning, análise de dados, aprendizado supervisionado e não supervisionado, matemática e estatística. 
+
+
+
 
 <!--
 **YagoFC05/YagoFC05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
