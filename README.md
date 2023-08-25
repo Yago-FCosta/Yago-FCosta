@@ -1,4 +1,8 @@
 ### Olá! 👋 Me chamo Yago!
+
+Trabalho principalmente com Pyhton para desenvolver análises exploratórias, analises estatísticas, visualizações, ETL e automatização de processos.
+Faço uso do Looker Studio para criar dashboards para acompanhamento de métricas 
+
 Cientista de dados com skills como Python, SQL, Power BI, DataStudio, lógica de programação, machine learning, análise de dados, aprendizado supervisionado e não supervisionado, matemática e estatística. 
 
 
