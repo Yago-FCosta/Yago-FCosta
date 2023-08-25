@@ -1,7 +1,7 @@
 ### Olá! 👋 Me chamo Yago!
 
 Trabalho principalmente com Pyhton para desenvolver análises exploratórias, analises estatísticas, visualizações, ETL e automatização de processos.
-Faço uso do Looker Studio para criar dashboards para acompanhamento de métricas 
+Faço uso do Looker Studio para criar dashboards para acompanhamento de KPI's e insights.
 
 
 
