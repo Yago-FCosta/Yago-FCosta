@@ -3,10 +3,15 @@
 Trabalho principalmente com Pyhton para desenvolver análises exploratórias, analises estatísticas, visualizações, ETL e automatização de processos.
 Faço uso do Looker Studio para criar dashboards para acompanhamento de métricas 
 
-Cientista de dados com skills como Python, SQL, Power BI, DataStudio, lógica de programação, machine learning, análise de dados, aprendizado supervisionado e não supervisionado, matemática e estatística. 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yago-fcosta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yago-fcosta/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--
 **YagoFC05/YagoFC05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
