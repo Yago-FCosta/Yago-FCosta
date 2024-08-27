@@ -1,6 +1,6 @@
-<h1 align="left"> Olá! 👋 Me chamo Yago!</h1>
+<h1 align="left"> Olá! 👋 Bem-vindo ao meu perfil no GitHub!</h1>
 
-<h3 align="left"> Bem-vindo ao meu perfil no GitHub! Sou Yago Costa, um profissional apaixonado por dados, sempre buscando transformar informações em insights valiosos. Com uma sólida experiência em operações e análise de dados, aplico meus conhecimentos em negócios, estatística, programação e machine learning para resolver problemas complexos.</h3>
+<p>Sou Yago Costa, um profissional apaixonado por dados, sempre buscando transformar informações em insights valiosos. Com uma sólida experiência em operações e análise de dados, aplico meus conhecimentos em negócios, estatística, programação e machine learning para resolver problemas complexos.</p>
 
 <p>🔭 Atualmente, sou Analista de Operações Pleno, onde automatizo processos e conduzo análises avançadas de dados utilizando Python e SQL no BigQuery, visando extrair insights e implementar melhorias operacionais. Desenvolvo e mantenho dashboards de KPIs baseados nas regras de negócios, realizo auditorias de dados, e otimizo fluxos entre sistemas por meio de automações com Zapier.</p>
 
