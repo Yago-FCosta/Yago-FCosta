@@ -1,6 +1,6 @@
 <h1 align="left"> Olá! 👋</h1>
 
-<p>Sou Yago Costa, um profissional apaixonado por dados, sempre buscando transformar informações em insights valiosos. tENHO experiência em operações e análise de dados, e aplico meus conhecimentos em negócios, estatística, programação e machine learning para resolver problemas complexos.</p>
+<p>Sou Yago Costa, um profissional apaixonado por dados, sempre buscando transformar informações em insights valiosos. Tenho experiência em operações e análise de dados, e aplico meus conhecimentos em negócios, estatística, programação e machine learning para resolver problemas complexos.</p>
 
 <p>Sou formado pelo Bootcamp de Cientista de Dados da TripleTen. No curso aprendi a realizar consultas em SQL e a trabalhar com as principais bibliotecas do Pyhton utilizadas para análise de dados e ciência de dados (pandas, numpy, matplotlib, plotly, scipy, scikit learn, keras), e suas aplicações para manipulação, análises e testes estatísticos, séries temporais, machine learning e resolução de problemas de negócios. Aprendi a construir modelos de machine learning supervisionados e não supervisionados, além de redes totalmente conectadas e redes neurais convolucionais.</p>
 
