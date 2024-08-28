@@ -20,6 +20,6 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,mysql,gcp,figma,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,gcp,figma,anaconda" />
   </a>
 </p>
