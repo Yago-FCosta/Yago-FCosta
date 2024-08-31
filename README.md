@@ -8,8 +8,6 @@
 
 <p>Tenho experiência em Python, SQL (BigQuery), análise estatística, criação de dashboards (Looker), auditoria, CRM (HubSpot), resolução de problemas complexos, comunicação entre áreas, gestão de projetos, automação de processos (pyhton e zapier), machine learning e modelagem preditiva.</p>
 
-<p>Meu objetivo é aplicar minhas habilidades em ciência de dados em um ambiente desafiador, onde possa desenvolver soluções analíticas e contribuir para a tomada de decisões estratégicas.</p>
-
 <p>Em meu GitHub, você encontrará projetos que demonstram minhas habilidades em ciência de dados, desde análises exploratórias até modelos de machine learning. Cada repositório é um passo na minha jornada para me tornar um cientista de dados completo.</p>
 
 <h3 align="left">Vamos bater um papo:</h3>
