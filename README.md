@@ -9,11 +9,9 @@ Atualmente, sou Analista de Operações Pleno, onde automatizo processos e condu
 Tenho experiência em **Python, SQL (BigQuery), análise estatística, criação de dashboards (Looker), auditoria, CRM (HubSpot), resolução de problemas complexos, comunicação entre áreas, gestão de projetos, automação de processos (pyhton e zapier), machine learning e modelagem preditiva**.
 
 <h3 align="left">Vamos bater um papo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yago-fcosta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yago-fcosta/" height="30" width="40" /></a>
-<a href="https://discord.gg/yagofcosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yagofcosta" height="30" width="40" /></a>
-</p>
-
+<p> - LinkedIn: https://www.linkedin.com/in/yago-fcosta/</p>
+<p> - E-mail: yagofcosta05@gmail.com </p>
+<p> - Discord: yagofcosta </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p> Python - SQL - Git - Github - GCP - Figma - Anaconda </p>
